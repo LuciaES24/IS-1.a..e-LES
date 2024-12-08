@@ -20,9 +20,9 @@ En este apartado comenzamos viendo algunos términos:
 - **Sistemas de información**: Son el conjunto de datos, procesos, personas y tecnologías que gestionan y manejan la información en una organización.
 - **Sistemas informáticos**: Se refieren al hardware y software que permiten procesar, almacenar y transmitir información.
 
-Además aprendemos a diferenciar entre seguridad y fiabilidad, ya que la seguridad total no existe, ya sea por errores informáticos inesperados, errores humanos o sucesos inesperados que haya que solucionar lo más rápido posible. Debido a esto, debemos darle mayor importancia a la fiabilidad, porque esta, es la que nos indica que los sistemas son capaces de funcionar perfectamente aunque ocurran fallos o sean atacados. La fiabilidad destaca por su alta disponibilidad, resiliencia y tolerancia a fallos.
+Además aprendemos a diferenciar entre seguridad y fiabilidad, ya que **la seguridad total no existe**, ya sea por errores informáticos inesperados, errores humanos o sucesos inesperados que haya que solucionar lo más rápido posible. Debido a esto, debemos darle mayor importancia a la fiabilidad, porque esta, es la que nos indica que los sistemas son capaces de funcionar perfectamente aunque ocurran fallos o sean atacados. **La fiabilidad destaca por su alta disponibilidad, resiliencia y tolerancia a fallos**.
 
-Las empresas deben encontrar el equilibrio entre la seguridad y la fiabilidad, ya que al no poder asegurar una seguridad completa, se debe invertir más en fiabilidad para evitar que ocurran incidentes a modo de futuro o minimizar su impacto lo máximo posible, creando planes de recuperación y actuación o utilizando sistemas de respaldo.
+Las empresas deben encontrar el **equilibrio entre la seguridad y la fiabilidad**, ya que al no poder asegurar una seguridad completa, se debe invertir más en fiabilidad para evitar que ocurran incidentes a modo de futuro o minimizar su impacto lo máximo posible, creando planes de recuperación y actuación o utilizando sistemas de respaldo.
 
 Sobre los principios generales hay que destacar la tríada CIA, la cual incluye:
 - **Confidencialidad**: Solo las personas autorizadas pueden acceder a la información.
@@ -34,7 +34,7 @@ Estos principios son esenciales cuando se va a construir cualquier estrategia de
 - **Autenticidad**: Asegura que la información o el usuario es quien dice ser, y que la información no ha sido manipulada por nadie más durante su transmisión o almacenamiento.
 - **No repudio**: Significa que ninguna de las partes involucradas en una comunicación o transacción puede negar que esa acción ocurrió.
 
-El decálogo de la ciberseguridad ofrece 10 principios para prevenir las amenazas y proteger los datos de forma activa. Estos principios son:
+El **decálogo de la ciberseguridad** ofrece 10 principios para prevenir las amenazas y proteger los datos de forma activa. Estos principios son:
 1. Cultura de la ciberseguridad y concienciación del empleado.
 2. No abrir enlaces ni descargar archivos sospechosos.
 3. Usar software de seguridad.
@@ -60,7 +60,7 @@ Otros conceptos que debemos tener en cuenta son:
  
 ### 1.2 Análisis de riesgos
 
-El análisis de riesgos hace que se puedan identificar, evaluar y priorizar los riesgos que puedan afectar a una organización o empresa. Toda empresa que quiera proteger su información y que valore las herramientas y sistemas que tiene debe desarrollar un plan director de seguridad. Este permite definir y prioridad entre un conjunto de proyectos que tienen que ver con la seguridad de la información, dirigido a reducir riesgos. Este análisis también puede realizarse de forma aislada al plan director de seguridad. Sus fases son:
+El análisis de riesgos hace que se puedan **identificar, evaluar y priorizar los riesgos** que puedan afectar a una organización o empresa. Toda empresa que quiera proteger su información y que valore las herramientas y sistemas que tiene debe desarrollar un plan director de seguridad. Este permite definir y prioridad entre un conjunto de proyectos que tienen que ver con la seguridad de la información, dirigido a reducir riesgos. Este análisis también puede realizarse de forma aislada al plan director de seguridad. Sus fases son:
 1. **Definir el alcance**: Si este análisis forma parte del plan director de seguridad diremos que cubre su totalidad. También puede definirse un alcance más limitado a departamentos, procesos o sistemas. 
 2. **Identificar los activos**: En esta fase deberemos identificar los activos que forman parte del alcance definido en la fase anterior. 
 3. **Identificar/Seleccionar las amenazas**: En este paso debemos identificar las amenazas a las que están expuestos los activos identificados seleccionando los que son más prácticos.
@@ -78,7 +78,7 @@ El puesto de trabajo es donde los empleados realizan su trabajo diario, donde se
 - Acceso a datos.
 - Personal.
 
-Las normativas son muy necesarias en el puesto de trabajo, estas son un conjunto de reglas y requisitos que indican cómo gestionar y asegurar los distintos aspectos del puesto de trabajo para proteger la información y los sistemas. 
+Las normativas son muy necesarias en el puesto de trabajo, estas son un **conjunto de reglas y requisitos** que indican cómo gestionar y asegurar los distintos aspectos del puesto de trabajo para proteger la información y los sistemas. 
 
 Debemos diferenciar entre algunos conceptos:
 - **Política**: Define la intención y los principios de una organización sobre un tema específico. Esta, establece el marco de referencia que guía las acciones para proteger los activos.
@@ -86,35 +86,35 @@ Debemos diferenciar entre algunos conceptos:
 - **Procedimiento**: Pasos específicos que deben seguirse para cumplir las normativas y de esta forma, también las políticas.
 - **Medidas de seguridad**: Estas medidas que deben llevarse a cabo, pueden clasificarse según su nivel de complejidad (Básico o avanzado) o según su alcance (Procesos, tecnología o personas). Además pueden clasificarse en preventivas, de monitorización o correctivas.
 
-Para aplicar o crear estas normativas se deben aplicar algunos estándares como el ISO/IEC 27001, el GDPR o el LOPDGDD. 
+Para aplicar o crear estas normativas se deben aplicar algunos estándares como el **ISO/IEC 27001, el GDPR o el LOPDGDD**. 
 
 En los puestos de trabajo se deben tener en cuenta los escenarios de riesgo para implementar medidas que sean efectivas. Vamos a diferenciar algunos escenarios según los activos:
-- Dispositivos de hardware:
+- **Dispositivos de hardware**:
   - Pérdida o robo.
   - Acceso no autorizado.
   - Falta de cifrado.
   - Infección de malware o software malicioso.
-- Software y aplicaciones:
+- **Software y aplicaciones**:
   - Descarga o uso de software no autorizado.
   - Uso de software desactualizado.
   - Falta de control en los permisos de acceso a aplicaciones.
   - Riesgo de fugas de información a través de aplicaciones en la nube o compartidas.
-- Comunicación y acceso a la red:
+- **Comunicación y acceso a la red**:
   - Acceso no seguro a redes públicas.
   - Acceso no autorizado a la red comparativa.
   - Fugas de datos a través de aplicaciones en la nube.
   - Intercepción de datos sensibles durante la comunicación.
-- Instalaciones físicas:
+- **Instalaciones físicas**:
   - Acceso no autorizado a áreas restringidas.
   - Exposición de información confidencial en áreas compartidas.
   - Pérdida o robo de dispositivos en las instalaciones.
   - Descuido en la gestión de residuos de documentación confidencial.
-- Acceso a datos:
+- **Acceso a datos**:
   - Permisos excesivos o inadecuados.
   - Acceso no autorizado a información confidencial.
   - Compartición insegura de información sensible.
   - Falta de seguimiento y auditoría de los accesos a datos.
-- Personal:
+- **Personal**:
   - Falta de concienciación en seguridad de la información.
   - Hábitos inseguros de trabajo.
   - Exposición a amenazas de ingeniería social.
@@ -162,7 +162,11 @@ Para elaborar el plan de formación hay que seguir algunos pasos:
 ### Conclusiones personales
 
 El tema tiene puntos bastante útiles como el análisis de riesgo, el plan director de seguridad o el plan de concienciación y formación, que nos podrán servir en el ámbito laboral. Algo que también deberemos utilizar en el trabajo serán las políticas y normativas, ya que cada empresa tendrá las suyas y hay que seguirlas. 
+
 El punto que creo que será más útil en el trabajo es el de políticas y normativas, ya que cada empresa tendrá algunas e incluso quizás podrían implementar unas nuevas.
+
 La mayoría de los puntos tratados en esta unidad no los conocía, sobre todo el plan director de seguridad, que es un documento más formal y técnico de cara a las empresas.
+
 El tema que me ha parecido más interesante ha sido el plan de concienciación y formación, además de que la dinámica que realizaremos para formar y concienciar en lo posible al centro me parece una forma muy buena de ponerlo en práctica.
+
 En cuanto a los temas tratados en general, no descartaría ninguno aunque quizás todo lo que son conceptos los pondría en un glosario de términos aparte de la unidad, en el que podrían estar los conceptos principales de todo el módulo.

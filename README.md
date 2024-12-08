@@ -137,19 +137,19 @@ Para elaborar el plan de formación hay que seguir algunos pasos:
 2. Evaluar las necesidades realizando encuestas o entrevistas.
 3. Definir los roles y diferenciar los contenidos estrategias para cada uno de ellos.
 4. Definir los contenidos del plan de formación, entre los que podemos incluir:
-  - Uso de contraseñas y sistemas de verificación.
-  - Reconocimiento de phishing.
-  - Peligros de descargas y uso de software no autorizado.
-  - Uso apropiado de internet.
-  - Ingeniería social.
-  - Uso de dispositivos de almacenamiento externo.
-  - Políticas de trabajo remoto.
-  - Uso de redes inalámbricas.
-  - Actualización de software.
-  - Copias de seguridad.
-  - Notificación de incidentes.
-  - Leyes y normativas.
-  - Política de “mesas limpias”.
+    - Uso de contraseñas y sistemas de verificación.
+    - Reconocimiento de phishing.
+    - Peligros de descargas y uso de software no autorizado.
+    - Uso apropiado de internet.
+    - Ingeniería social.
+    - Uso de dispositivos de almacenamiento externo.
+    - Políticas de trabajo remoto.
+    - Uso de redes inalámbricas.
+    - Actualización de software.
+    - Copias de seguridad.
+    - Notificación de incidentes.
+    - Leyes y normativas.
+    - Política de “mesas limpias”.
 5. Asociación de roles y contenidos para adaptar los contenidos a cada grupo.
 6. Elegir las metodologías formativas para maximizar el impacto y garantizar que los empleados participen activamente, utilizando distintos materiales como presentaciones, carteles o ataques simulados, o creando un calendario de formación.
 7. Evaluación y actualización del plan de formación realizando encuestas y pruebas de que la formación ha ido bien, además de realizar una mejora continua y formación de refuerzo.
